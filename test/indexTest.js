@@ -20,7 +20,7 @@ describe('index.js', function () {
       });
     });
 
-    describe('destructivelyPrependDriver(name)', function () {
+    describe('', function () {
       it('prepends a driver to the beginning of the drivers array', function () {
         destructivelyPrependDriver("Bob");
 
